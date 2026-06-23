@@ -27,11 +27,7 @@
 
 ![Три независимые оси вращения головы](./assets/three_rotation_axes_head.png)
 
-![Визуализация поворота в аксиальной плоскости](./assets/orientation_normalization_goal.png)
-
-![Визуализация поворота в коронарной плоскости](./assets/orientation_normalization_goal1.png)
-
-![Визуализация поворота в сагиттальной плоскости](./assets/orientation_normalization_goal2.png)
+![Визуализация поворота в 3D](./assets/orientation_normalization_goal_total.jfif)
 
 ## Что нужно сделать
 
